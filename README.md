@@ -1,2 +1,4 @@
-# Quiz
-This is 2nd Project For Quiz
+Quiz.
+
+There is Only three questions for apply the logic.
+
